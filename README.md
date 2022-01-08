@@ -8,7 +8,7 @@ the process was:
 2- assigning initial tasks.
 3- work on UML diagrams.
 4- create the database using mySQL.
-5- create a file structure that follows a 3-tier layered architecture (presentation-processing-storage) for this system.
+5- create a file structure that follows a Model-View-Controller architecture (model(CORE)-view(GUI)-controller(DAO)) for this system.
 6- write basic classes and objects in java according to UML diagrams.
 7- write processing layer that creates connections to DB (pushing/pulling data).
 8- write presentation layer using java swing.
