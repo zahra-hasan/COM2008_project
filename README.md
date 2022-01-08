@@ -10,16 +10,16 @@ the process was:
 4- create the database using mySQL.
 5- create a file structure that follows a 3-tier layered architecture (presentation-processing-storage) for this system.
 6- write basic classes and objects in java according to UML diagrams.
-7- write processing layer that creates connections to DB (pushing/pulling data)
-8- write presentation layer using java swing
-9- document and write report
+7- write processing layer that creates connections to DB (pushing/pulling data).
+8- write presentation layer using java swing.
+9- document and write report.
 *note: some of the steps are strongly dependent on each other and have been done simultaneously 
 # The final result
 The project was done partially. only the following functionalities were made:
-1-Registration and authentication for guest/host
-2-adding properties for host
-3-viewing properties for enquirers and guests
-4-viewing own properties for hosts
+1-Registration and authentication for guest/host.
+2-adding properties for host.
+3-viewing properties for enquirers and guests.
+4-viewing own properties for hosts.
 # What I have learned
 I have learned couple of valuable lessons:
 1- Being able to communicate and work with different teammates of unique personalities can be more crucial than being able to write lines of code.
