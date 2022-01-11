@@ -1,5 +1,5 @@
 # System design project
-This is the HomeBreaks team project for COM2008 using Java and mySQL.
+This is the HomeBreaks team project written using Java and mySQL.
 # Project objective
 The project objective was to create a software system to meet the needs of an organisation called HomeBreaks Plc, which manages a collection of small properties for short-term lease by hosts to renting guests. The software system will capture details about the properties, their hosts and guests, and will manage bookings and reviews of the properties. The security aspect is that contact details for individuals and the precise locations of properties are not revealed to a casual enquirer, but only to authorised users, according to the business rules.
 # The development process
