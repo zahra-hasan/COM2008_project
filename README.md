@@ -25,7 +25,6 @@ I have learned couple of valuable lessons:
 1- Being able to communicate and work with different teammates of unique personalities can be more crucial than being able to write lines of code.  
 2- a team must have a clear plan or strategy before starting to work or code anything.  
 3- constant communication and share of thoughts is a must for a successful software life cycle.  
-4- Whenever a teammate is not able to do their work, an opportunity presents itself for me to learn a new thing that is not extra work, but more knowledge in my bank.  
+ 
 Moreover, I have strengthened my knowledge of Java and the foundations I've studied in the first year. Now I feel more confident using object oriented programming languages and it is much easier for me to think abstractly.  
-# Mark
-to be marked.
+
